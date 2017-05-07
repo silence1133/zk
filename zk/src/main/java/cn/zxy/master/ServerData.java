@@ -7,6 +7,7 @@ import java.io.Serializable;
 
 /**
  * Created by HP on 2017/5/7.
+ * server的信息
  */
 @Data
 @AllArgsConstructor
