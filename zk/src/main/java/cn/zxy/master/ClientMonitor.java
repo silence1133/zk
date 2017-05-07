@@ -1,15 +1,13 @@
 package cn.zxy.master;
 
 import org.I0Itec.zkclient.ZkClient;
-
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * @author Silence.
- *         模拟10个客户端的主main
+ * @date
+ *  模拟10个客户端的主main
  */
 public class ClientMonitor {
     public static void main(String[] args) throws Exception {
